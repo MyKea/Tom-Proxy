@@ -1,0 +1,16 @@
+body {
+  font-family: Noto Sans;
+  margin: 0;
+  max-width: 95vw;
+}
+
+#images-descriptions {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+#aw_root {
+  margin-bottom: 4rem;
+}
